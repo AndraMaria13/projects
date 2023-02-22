@@ -1,0 +1,24 @@
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 5
+Tren: #6
+Tip Tren: Personal
+Numarul Locului: 3
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 1
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 0
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 0
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 7
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 5
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 5

@@ -1,0 +1,7 @@
+Tren: #12
+Tip Tren: Accelerat
+Numarul Locului: 6
+CNP: 6030622210318Tren: #8
+Tip Tren: Personal
+Numarul Locului: 6
+CNP: 6030622210318

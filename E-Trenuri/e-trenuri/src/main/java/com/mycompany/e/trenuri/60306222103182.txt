@@ -1,0 +1,4 @@
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 2
+CNP: 6030622210318

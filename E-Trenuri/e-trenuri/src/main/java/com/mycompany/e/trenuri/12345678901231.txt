@@ -1,0 +1,4 @@
+Tren: #8
+Tip Tren: Personal
+Numarul Locului: 1
+CNP: 1234567890123

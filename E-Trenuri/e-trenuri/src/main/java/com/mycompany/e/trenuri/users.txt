@@ -1,0 +1,6 @@
+andra,123456,6030622210318,Student,raducanu,andreea,18
+andreeaCristina,nu,124324367576865,Pensionar,niculae,andra,20
+andra123,parola,763426747283659,Soldat,florescu,silviu,50
+andra5,1123456,1234567892345,Adult,Maria,Niculae,11
+andreea12,12345678,1234567890123,Adult,raducanu,cristina,11
+andreea,1234567,1234567890123,Student,maria,raducanu,6
