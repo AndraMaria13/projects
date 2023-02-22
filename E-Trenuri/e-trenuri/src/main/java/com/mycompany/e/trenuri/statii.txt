@@ -1,0 +1,13 @@
+1,Constanta
+2,Bucuresti
+3,Brasov
+4,Iasi
+5,Prahova
+6,Cluj
+7,Craiova
+8,Timisoara
+9,Ramnicul Sarat
+10,Vaslui
+11,Arad
+12,Drobeta Turnul Severin
+13,Ploiesti
